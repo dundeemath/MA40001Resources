@@ -8,5 +8,4 @@ contributes:
       template-partials:
         - typst-template.typ
         - typst-show.typ
-      fontsize: 24pt
 
